@@ -29,24 +29,16 @@ a:active {
 a:visited {
     color: gray;
 }
+
+.image-wrapper {
+    width: 200px;
+    margin: 0 auto;
+}
+
 .avatar {
     width: 200px;
     border-radius: 28px; 
     box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
-
-}
-
-.box3 {
-  width: 200px;
-}
-.minibox {
-  width: 50px;
-}
-.width {
-  width: 100%;
-}
-.max {
-  max-width: 100%;
 }
 
 .table td {
