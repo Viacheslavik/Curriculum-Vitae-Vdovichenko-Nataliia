@@ -35,6 +35,20 @@ a:visited {
     box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
 
 }
+
+.box3 {
+  width: 200px;
+}
+.minibox {
+  width: 50px;
+}
+.width {
+  width: 100%;
+}
+.max {
+  max-width: 100%;
+}
+
 .info {
     display: flex;
     margin-bottom: 20px;
